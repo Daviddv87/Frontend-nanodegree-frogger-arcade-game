@@ -17,6 +17,8 @@ Player must use the keyboard arrows (up, down, right, left) to navigate the char
 
 ## How to Run
 
-1.Download the clone repository onto your local workstation:
-git clone:https://github.com/Daviddv87/Frontend-nanodegree-frogger-arcade-game.git
-2.Open browser window and navigate to the index.html file in your application directory.
+1. Download the clone repository onto your local workstation:
+
+`git clone:https://github.com/Daviddv87/Frontend-nanodegree-frogger-arcade-game.git`
+
+2. Open browser window and navigate to the index.html file in your application directory.
