@@ -13,4 +13,10 @@ In this project the task was to recreate the Classic Arcade Game [Frogger].
 
 ## How to play:
 
-Player must use the keyboard arrows(up, down, right, left) to navigate the character around the board. The player wins the game if you have reached the water without touching the enemy bugs. The player is then put back in its initial location.
+Player must use the keyboard arrows (up, down, right, left) to navigate the character around the board. The player wins the game if you have reached the water without touching the enemy bugs. The player is then put back in its initial location.
+
+## How to Run
+
+1.Download the clone repository onto your local workstation:
+git clone:https://github.com/Daviddv87/Frontend-nanodegree-frogger-arcade-game.git
+2.Open browser window and navigate to the index.html file in your application directory.
